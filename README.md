@@ -6,7 +6,7 @@ Im started studying python at the beginning of the covid pandemic,I am currently
 
 
 More about me:
-<ul>    
+<ul class="container bg-danger">    
 <li>Sound postroducción studio (owner) https://www.invisiblesonido.com</li>
 <li>E-learning site for audio lovers (owner - teacher) https://www.masasonora.com</li>
 <li>website: https://www.assiz.tk</li>
@@ -32,3 +32,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<scrip><link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous"></scrip>
