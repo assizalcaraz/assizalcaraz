@@ -8,9 +8,12 @@ Im started studying python at the beginning of the covid pandemic,I am currently
 More about me:
 <ul>    
 <li>Sound postroducción studio (owner) https://www.invisiblesonido.com</li>
-E-learning site for audio lovers (owner - teacher) https://www.masasonora.com
-website: https://www.assiz.tk
-LinkedIn: https://ar.linkedin.com/in/assizalcarazbaxter
+<li>E-learning site for audio lovers (owner - teacher) https://www.masasonora.com</li>
+<li>website: https://www.assiz.tk</li>
+<li>LinkedIn: https://ar.linkedin.com/in/assizalcarazbaxter</li>
+
+
+
 </ul>
 
 
