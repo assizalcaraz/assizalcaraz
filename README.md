@@ -1,8 +1,6 @@
-<img src="https://github.com/assizalcaraz/assizalcaraz/blob/f684975b17019449a5dc8410b0ef38af96e02e82/INVISIBLE%20.gif"/>
 Sound designer - beginner programmer - content creator - teacher
 
 Im started studying python at the beginning of the covid pandemic, I am currently studying django and vue.js. I created some sites with wordpress. My goal is to replicate these sites using Heroku, Django and Vue.Js. 
-
 
 
 Knowledge:
@@ -20,9 +18,6 @@ Interests:
     <li>Docker</li>
     <li>Kubernetes</li>
     <li>Raspberry pi</li>
-    <li></li>
-    <li></li>
-    <li></li>
 </ul>
 
 
@@ -34,3 +29,4 @@ More about me:
 <li>LinkedIn: https://ar.linkedin.com/in/assizalcarazbaxter</li>
 </ul>
 
+<img src="https://github.com/assizalcaraz/assizalcaraz/blob/f684975b17019449a5dc8410b0ef38af96e02e82/INVISIBLE%20.gif"/>
