@@ -1,4 +1,4 @@
-<img src="./INVISIBLE.gif"/>
+<img src="../INVISIBLE.gif"/>
 Sound designer - beginner programmer - content creator - teacher
 
 Im started studying python at the beginning of the covid pandemic, I am currently studying django and vue.js. I created some sites with wordpress. My goal is to replicate these sites using Heroku, Django and Vue.Js. 
