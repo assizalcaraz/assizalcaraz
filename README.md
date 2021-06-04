@@ -3,7 +3,7 @@
 Im started studying python at the beginning of the covid pandemic, I am currently studying django and vue.js. I created some sites with wordpress. My goal is to replicate these sites using Heroku, Django and Vue.Js. 
 
 
-<h6>Knowledge:</h6>
+<h4>Knowledge:</h4>
 <ul>
     <li>html</li>
     <li>css</li>
@@ -13,7 +13,7 @@ Im started studying python at the beginning of the covid pandemic, I am currentl
     <li>cpanel</li>
 </ul>
 
-<h6>Interests:</h6>
+<h4>Interests:</h4>
 <ul>
     <li>Docker</li>
     <li>Kubernetes</li>
@@ -21,7 +21,7 @@ Im started studying python at the beginning of the covid pandemic, I am currentl
 </ul>
 
 
-<h6>More about me:</h6>
+<h4>More about me:</h4>
 <ul class="container bg-danger">    
 <li>Sound postroducción studio (owner) https://www.invisiblesonido.com</li>
 <li>E-learning site for audio lovers (owner - teacher) https://www.masasonora.com</li>
