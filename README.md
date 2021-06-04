@@ -1,6 +1,28 @@
 Sound designer - beginner programmer - content creator - teacher
 
-Im started studying python at the beginning of the covid pandemic, I am currently studying django and vue.js. I created some sites with wordpress, I have an elementary handling of MySQL. My goal is to replicate these sites using Heroku, Django and Vue.Js. 
+Im started studying python at the beginning of the covid pandemic, I am currently studying django and vue.js. I created some sites with wordpress. My goal is to replicate these sites using Heroku, Django and Vue.Js. 
+
+
+
+Knowledge:
+<ul>
+    <li>html</li>
+    <li>css</li>
+    <li>js</li>
+    <li>python</li>
+    <li>wordpress</li>
+    <li>cpanel</li>
+</ul>
+
+Interests:
+<ul>
+    <li>Docker</li>
+    <li>Kubernetes</li>
+    <li>Raspberry pi</li>
+    <li></li>
+    <li></li>
+    <li></li>
+</ul>
 
 
 More about me:
