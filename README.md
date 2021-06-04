@@ -1,4 +1,15 @@
-Sound designer - 
+Sound designer - beginner programmer - content creator - teacher
+
+Im started studying python at the beginning of the covid pandemic,I am currently studying django and vue.js.    
+
+
+More about me:
+Sound postroducción studio (owner) https://www.invisiblesonido.com
+E-learning site for audio lovers (owner - teacher) https://www.masasonora.com
+website: https://www.assiz.tk
+LinkedIn: https://ar.linkedin.com/in/assizalcarazbaxter
+
+
 
 
 <!--
